@@ -231,5 +231,8 @@ public class Login extends JDialog {
             JOptionPane.showMessageDialog(null, "an error occurred " + evt);// message displayed when error occurs
         }
     }
+    public void change(){
+
+    }
 
 }
